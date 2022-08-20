@@ -223,10 +223,4 @@ while space_exist():
 display_board()
 print(result)
 
-
-    
-    
-    
-    
-    
     
